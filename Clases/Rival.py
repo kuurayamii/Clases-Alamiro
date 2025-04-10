@@ -1,0 +1,3 @@
+from Clases.Jugador import Jugador
+class Rival(Jugador):
+    ...
